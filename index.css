@@ -1,0 +1,22 @@
+border-box {
+    box-sizing: border-box;
+    font-size: medium;
+}
+
+h1 , h4, p {
+    text-orientation: capitalize;
+}
+
+.header {
+    grid-area: header;
+    padding: 15px;
+    text-align: center;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
+
